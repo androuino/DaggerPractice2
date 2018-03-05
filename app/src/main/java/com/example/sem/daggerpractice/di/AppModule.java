@@ -18,6 +18,7 @@ import dagger.Provides;
 
 /**
  * Created by sem on 11/9/17.
+ *
  */
 @Module(subcomponents = {
         MainActivityComponent.class,

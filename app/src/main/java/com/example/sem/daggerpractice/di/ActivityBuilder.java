@@ -15,6 +15,7 @@ import dagger.multibindings.IntoMap;
 
 /**
  * Created by sem on 11/9/17.
+ *
  */
 @Module
 public abstract class ActivityBuilder {

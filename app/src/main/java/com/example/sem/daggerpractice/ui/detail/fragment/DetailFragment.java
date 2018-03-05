@@ -15,6 +15,7 @@ import dagger.android.support.AndroidSupportInjection;
 
 /**
  * Created by sem on 11/9/17.
+ *
  */
 
 public class DetailFragment extends Fragment implements DetailFragmentView {

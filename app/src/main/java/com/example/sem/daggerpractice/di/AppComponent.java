@@ -10,6 +10,7 @@ import dagger.android.AndroidInjectionModule;
 
 /**
  * Created by sem on 11/9/17.
+ *
  */
 @Component(modules = {
         AndroidInjectionModule.class,

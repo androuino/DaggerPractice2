@@ -5,6 +5,7 @@ import dagger.android.AndroidInjector;
 
 /**
  * Created by sem on 11/9/17.
+ *
  */
 
 @Subcomponent(modules = MainActivityModule.class)

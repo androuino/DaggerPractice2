@@ -19,6 +19,7 @@ import dagger.android.support.HasSupportFragmentInjector;
 
 /**
  * Created by sem on 11/9/17.
+ *
  */
 
 public class DetailActivity extends AppCompatActivity implements HasSupportFragmentInjector, DetailView {

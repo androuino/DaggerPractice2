@@ -7,6 +7,7 @@ import javax.inject.Singleton;
 
 /**
  * Created by sem on 11/9/17.
+ *
  */
 @Singleton
 public class LocalSharedPreferences {

@@ -13,6 +13,7 @@ import dagger.android.HasActivityInjector;
 
 /**
  * Created by sem on 11/9/17.
+ *
  */
 
 public class AndroidSampleApp extends Application implements HasActivityInjector {
