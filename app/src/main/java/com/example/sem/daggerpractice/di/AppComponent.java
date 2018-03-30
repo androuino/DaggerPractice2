@@ -12,12 +12,8 @@ import dagger.android.AndroidInjectionModule;
  * Created by sem on 11/9/17.
  *
  */
-@Component(modules = {
-        AndroidInjectionModule.class,
-        AppModule.class,
-        ActivityBuilder.class})
+@Component(modules = {AndroidInjectionModule.class, AppModule.class, ActivityBuilder.class})
 public interface AppComponent {
-
     @Component.Builder
     interface Builder {
         @BindsInstance

@@ -20,9 +20,7 @@ import dagger.Provides;
  * Created by sem on 11/9/17.
  *
  */
-@Module(subcomponents = {
-        MainActivityComponent.class,
-        DetailActivityComponent.class})
+@Module(subcomponents = {MainActivityComponent.class, DetailActivityComponent.class})
 public class AppModule {
 
     @Provides
